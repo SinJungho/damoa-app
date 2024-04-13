@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../module-css/Language.module.css";
+import style from "../css/Language.module.css";
 import GenreIcon from "../svg/GenreIcon";
 // import style from "../module-css/Genre.module.css";
 
