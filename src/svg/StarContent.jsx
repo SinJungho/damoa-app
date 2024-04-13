@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../module-css/Rating.module.css";
+import style from "../css/Rating.module.css";
 
 export default function StarContent() {
   return (
